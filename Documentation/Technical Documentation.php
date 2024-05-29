@@ -1,5 +1,5 @@
 Technical documentation
 
-Estimated Hours: 30 hours
+Estimated Hours: 
 
-Cost: $20/hour = $600
+Cost: $20/hour =
