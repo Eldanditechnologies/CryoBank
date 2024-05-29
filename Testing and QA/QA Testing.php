@@ -2,6 +2,6 @@ Unit testing
 Integration testing
 User acceptance testing
 
-Estimated Hours: 100 hours
+Estimated Hours:
 
-Cost: $20/hour = $2000
+Cost: $20/hour =
